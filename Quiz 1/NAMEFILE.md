@@ -1,6 +1,8 @@
 ## Write your name on its own line:   
-Bradly Alicea
+Bradly Alicea 
+
 Devon Reynolds
+
 Rachel Li    
 Keon Kim    
 Shenhua Zhang   
