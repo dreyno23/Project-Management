@@ -1,5 +1,6 @@
 ## Write your name on its own line:   
-Bradly Alicea   
+Bradly Alicea
+Devon Reynolds
 Rachel Li    
 Keon Kim    
 Shenhua Zhang   
@@ -9,4 +10,4 @@ Ulysses Martinez Fermin
 Natasha Nangia    
 Ashka Rastogi    
 Jinu Jung      
-Ulysses Martinez Fermin     
+Ulysses Martinez Fermin         
